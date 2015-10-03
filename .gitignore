@@ -1,0 +1,6 @@
+data/conn.php
+data/conn.php.bk
+/upload/*
+install.php.bk
+!/upload/temp_csv_20100429.csv
+!/upload/temp_csv_20150915.csv
